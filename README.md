@@ -1,1 +1,1 @@
-# THM - Erit-Securus-Writeup
+# TryHackeMe-Erit_Securus_Writeup
